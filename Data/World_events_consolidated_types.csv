@@ -1,0 +1,305 @@
+event_id,Name of Incident,Date,Country,Type of Event,Outcome
+1,PokhranUnknownII Nuclear Tests,1998-05-11,India,Nuclear Test,Mixed
+2,Mumbai Terror Attacks,2008-11-26,India,Terrorism,Negative
+3,Operation Blue Star,1984-06-01,India,Military Action,Negative
+4,Right to Information Act Enacted,2005-06-15,India,Legislation,Positive
+5,Nirbhaya Case,2012-12-16,India,Criminal Incident,Positive
+6,Ram Mandir Bhoomi Pujan,2020-08-05,India,Cultural/Religious,Positive
+7,Bhopal Gas Tragedy,1984-12-03,India,Disaster,Negative
+8,Kandahar Hijacking (IC 814),1999-12-24,India,Terrorism,Negative
+9,2001 Indian Parliament Attack,2001-12-13,India,Terrorism,Negative
+10,Right to Education Act,2009-08-04,India,Legislation,Positive
+11,Article 370 Revocation for Jammu & Kashmir,2019-08-05,India,Political,Mixed
+12,Supreme Court Verdict on Ayodhya,2019-11-09,India,Judiciary,Mixed
+13,Opening of BandraUnknownWorli Sea Link,2009-06-30,India,Infrastructure,Positive
+14,Statue of Unity Unveiled,2018-10-31,India,Cultural/Political,Positive
+15,Triple Talaq Bill Passed,2019-07-30,India,Legislation,Positive
+16,Nationwide Lockdown due to COVIDUnknown19,2020-03-24,India,Health,Negative
+17,Historic Win in Cricket World Cup 1983,1983-06-25,India,Sports,Positive
+18,Indian Mars Orbiter Mission Success,2014-09-24,India,Scientific/Exploration,Positive
+19,India Wins ICC T20 World Cup 2007,2007-09-24,India,Sports,Positive
+20,India's Demonetisation Campaign,2016-11-08,India,Economic,Mixed
+21,Jio Telecom Launch,2016-09-05,India,Telecommunications,Positive
+22,Abolition of Instant Triple Talaq,2019-07-30,India,Legislative/Judicial,Positive
+23,Decriminalisation of Section 377,2018-09-06,India,Legislative/Judicial,Positive
+24,Launch of ChandrayaanUnknown1,2008-10-22,India,Scientific/Exploration,Positive
+25,Start of Swachh Bharat Mission,2014-10-02,India,Environmental,Positive
+26,Pulwama Terrorist Attack,2019-02-14,India,Terrorism,Negative
+27,Historic Solar Alliance Initiative,2015-11-30,India,Diplomatic/International,Positive
+28,GST (Goods and Services Tax) Implementation,2017-07-01,India,Economic Reform,Positive
+29,Citizenship Amendment Act (CAA) Implementation,2019-12-12,India,Legislation,Mixed
+30,2016 Uri Attack and Subsequent Surgical Strikes,2016-09-18,India,Military Action,Mixed
+31,Bharatiya Janata Party (BJP),1980-04-06,India,Political Party,Positive
+32,Securities and Exchange Board of India (SEBI),1988-04-12,India,Regulatory Body,Positive
+33,Pakistan's Nuclear Tests (ChagaiUnknownI),1998-05-28,Pakistan,Nuclear Test,Mixed
+34,2005 Kashmir Earthquake,2005-10-08,Pakistan,Disaster,Negative
+35,Assassination of Benazir Bhutto,2007-12-27,Pakistan,Political,Negative
+36,Operation ZarbUnknowneUnknownAzb,2014-06-15,Pakistan,Military Action,Positive
+37,2014 Peshawar School Massacre,2014-12-16,Pakistan,Terrorism,Negative
+38,ChinaUnknownPakistan Economic Corridor (CPEC) Agreement,2015-04-20,Pakistan,Economic,Positive
+39,Panama Papers Case & Disqualification of PM Nawaz Sharif,2017-07-28,Pakistan,Political Corruption,Mixed
+40,Kartarpur Corridor Opening,2019-11-09,Pakistan,Diplomatic/Religious,Positive
+41,Imran Khan Elected as Prime Minister,2018-08-18,Pakistan,Political,Positive
+42,Abolition of FATA,2018-05-31,Pakistan,Administrative,Positive
+43,2019 Pulwama Attack and IndiaUnknownPakistan Standoff,2019-02-14,Pakistan,Military/Political,Negative
+44,Islamabad Declaration,1980-01-22,Pakistan,Diplomatic/International,Positive
+45,Women's Protection Bill,2006-11-15,Pakistan,Legislation,Positive
+46,Malala Yousafzai's Nobel Peace Prize,2014-12-10,Pakistan,Diplomatic/International,Positive
+47,18th Amendment to the Constitution,2010-04-19,Pakistan,Legislative/Judicial,Positive
+48,Pakistan's First Satellite Launch,1990-07-16,Pakistan,Scientific/Exploration,Positive
+49,Protection of Women Act,2006-11-29,Pakistan,Legislation,Positive
+50,Gwadar Port Development,2002-03-22,Pakistan,Infrastructure,Positive
+51,National Action Plan Against Terrorism,2014-12-24,Pakistan,Security Policy,Positive
+52,1983 Black July Riots,1983-07-23,Sri Lanka,Ethnic Conflict,Negative
+53,Tsunami Disaster,2004-12-26,Sri Lanka,Disaster,Negative
+54,End of the Civil War,2009-05-18,Sri Lanka,Military Action,Positive
+55,1987 IndoUnknownSri Lanka Accord,1987-07-29,Sri Lanka,Diplomatic/International,Mixed
+56,2002 Ceasefire Agreement with LTTE,2002-02-22,Sri Lanka,Peace Process,Mixed
+57,Victory over Terrorism Day,2010-05-18,Sri Lanka,Commemoration,Positive
+58,First Executive President Elected,1978-02-04,Sri Lanka,Political,Mixed
+59,2019 Easter Bombings,2019-04-21,Sri Lanka,Terrorism,Negative
+60,Handover of Hong Kong,1997-07-01,China,Diplomatic/International,Mixed
+61,China Hosts the Olympic Games,2008-08-08,China,International Sports Event,Positive
+62,Return of Hong Kong,1997-07-01,China,Sovereignty Transition,Mixed
+63,Return of Macau,1999-12-20,China,Sovereignty Transition,Mixed
+64,2008 Beijing Olympics,2008-08-08,China,International Sports Event,Positive
+65,Shanghai Cooperation Organization Establishment,2001-06-15,China,International Organization,Positive
+66,Hong Kong Handover,1997-07-01,China,Sovereignty Transition,Mixed
+67,China Joins the World Trade Organization (WTO),2001-12-11,China,Diplomatic/International,Positive
+68,2008 Beijing Olympic Games,2008-08-08,China,International Sports Event,Positive
+69,AntiUnknownSecession Law Passed,2005-03-14,China,Legislation,Mixed
+70,Shanghai World Expo,2010-05-01,China,International Exhibition,Positive
+71,Xi Jinping Assumes Presidency,2013-03-14,China,Political,Mixed
+72,South China Sea Arbitration Ruling,2016-07-12,China,Diplomatic/International,Negative
+73,Chang'eUnknown5 Moon Mission Success,2020-12-01,China,Scientific/Exploration,Positive
+74,Comprehensive Agreement on Investment with the EU,2020-12-30,China,Economic,Positive
+75,SovietUnknownAfghan War,1979-12-24,USSR,Military Action,Negative
+76,Chernobyl Nuclear Disaster,1986-04-26,USSR,Nuclear Accident,Negative
+77,Fall of the Berlin Wall,1989-11-09,USSR,Political,Positive
+78,Dissolution of the Soviet Union,1991-12-26,USSR,Political,Positive
+79,Boris Yeltsin Elected as First President of Russia,1991-06-12,Russia,Political,Positive
+80,Constitutional Crisis in Russia,1993-09-21,Russia,Political,Negative
+81,Financial Crisis in Russia,1998-08-17,Russia,Economic,Negative
+82,Putin's First Presidential Term,2000-05-07,Russia,Political,Mixed
+83,Moscow Theater Hostage Crisis,2002-10-23,Russia,Terrorism,Negative
+84,Beslan School Siege,2004-09-01,Russia,Terrorism,Negative
+85,Russia's Annexation of Crimea,2014-03-18,Russia,Political/Territorial Change,Negative
+86,Intervention in the Syrian Civil War,2015-09-30,Russia,Military Action,Mixed
+87,Skripal Poisoning Incident,2018-03-04,Russia,International Incident,Negative
+88,Heisei Era Begins,1989-01-08,Japan,Era Change,Positive
+89,Great Hanshin Earthquake,1995-01-17,Japan,Disaster,Negative
+90,Aum Shinrikyo Tokyo Subway Sarin Attack,1995-03-20,Japan,Terrorism,Negative
+91,Japan's Apology for WWII Aggressions,1995-08-15,Japan,Diplomatic Statement,Positive
+92,Kyoto Protocol on Climate Change,1997-12-11,Japan,Diplomatic/International,Positive
+93,Fukushima Daiichi Nuclear Disaster,2011-03-11,Japan,Nuclear Accident,Negative
+94,JapanUnknownKorea Comfort Women Agreement,2015-12-28,Japan,Diplomatic/International,Mixed
+95,Emperor Akihito's Abdication,2019-04-30,Japan,Historical,Positive
+96,2020 Tokyo Olympics Postponement,2020-03-24,Japan,International Sports Event,Mixed
+97,Reiwa Era Begins,2019-05-01,Japan,Era Change,Positive
+98,Mabo v Queensland Decision,1992-06-03,Australia,Legislative/Judicial,Positive
+99,Port Arthur Massacre,1996-04-28,Australia,Gun Violence,Positive
+100,Australia Act 1986,1986-03-03,Australia,Legislative/Judicial,Positive
+101,Apology to Australia's Indigenous Peoples,2008-02-13,Australia,Political,Positive
+102,Mabo Decision by the High Court,1992-06-03,Australia,Legislative/Judicial,Positive
+103,Port Arthur Massacre,1996-04-28,Australia,Gun Violence,Positive
+104,Sydney 2000 Summer Olympics,2000-09-15,Australia,International Sports Event,Positive
+105,Apology to the Stolen Generations,2008-02-13,Australia,Political,Positive
+106,Introduction of Goods and Services Tax (GST),2000-07-01,Australia,Economic,Mixed
+107,SameUnknownSex Marriage Legalization,2017-12-07,Australia,Legal/Social,Positive
+108,Black Saturday Bushfires,2009-02-07,Australia,Disaster,Negative
+109,Repeal of Carbon Tax,2014-07-17,Australia,Environmental,Negative
+110,Australia's First Female Prime Minister,2010-06-24,Australia,Political,Positive
+111,Introduction of Nuclear Free Zone,1987-06-08,New Zealand,Policy/Legislation,Positive
+112,Homosexual Law Reform Act,1986-07-09,New Zealand,Social,Positive
+113,2011 Christchurch Earthquake,2011-02-22,New Zealand,Disaster,Negative
+114,New Zealand's First Female Prime Minister,1997-12-05,New Zealand,Political,Positive
+115,Kim IlUnknownsung’s Death,1994-07-08,North Korea,Political,Negative
+116,North Korea's First Nuclear Test,2006-10-09,North Korea,Nuclear Test,Negative
+117,Gwangju Uprising,1980-05-18,South Korea,Democratic Uprising,Positive
+118,Seoul Olympics,1988-09-17,South Korea,International Sports Event,Positive
+119,2002 FIFA World Cup,2002-05-31,South Korea,International Sports Event,Positive
+120,Impeachment of President Roh MooUnknownhyun,2004-03-12,South Korea,Political,Mixed
+121,2018 InterUnknownKorean Summit,2018-04-27,South Korea,Diplomatic,Positive
+122,Second Nuclear Test,2009-05-25,North Korea,Nuclear Test,Negative
+123,Death of Kim JongUnknownil,2011-12-17,North Korea,Leadership Change,Mixed
+124,Normalization of USUnknownVietnam Relations,1995-07-11,Vietnam,Diplomatic,Positive
+125,Vietnam Joins ASEAN,1995-07-28,Vietnam,International Integration,Positive
+126,Vietnam Joins the World Trade Organization,2007-01-11,Vietnam,Diplomatic/International,Positive
+127,1000th Anniversary of Hanoi,2010-10-10,Vietnam,Cultural Celebration,Positive
+128,Vietnam Hosts APEC Summit,2017-11-06,Vietnam,Diplomatic/International,Positive
+129,Vietnam's First Communication Satellite,2008-04-19,Vietnam,Technological Advancement,Positive
+130,Historic US Presidential Visit to Vietnam,2016-05-21,Vietnam,Diplomatic,Positive
+131,Typhoon Damrey Strikes Vietnam,2017-11-04,Vietnam,Disaster,Negative
+132,Juhayman alUnknownOtaybi's Seizure of the Grand Mosque,1979-11-20,Saudi Arabia,Security Incident,Negative
+133,IranUnknownIraq War and Saudi Involvement,1980-09-22,Saudi Arabia,Regional Conflict,Mixed
+134,First Gulf War,1990-08-02,Saudi Arabia,Military Action,Mixed
+135,Introduction of the Basic Law of Governance,1992-03-01,Saudi Arabia,Legal Framework,Positive
+136,Saudi Arabia Joins the WTO,2005-12-11,Saudi Arabia,Economic Integration,Positive
+137,Riyadh Compound Bombings,2003-05-12,Saudi Arabia,Terrorism,Negative
+138,King Abdullah's Ascension,2005-08-01,Saudi Arabia,Leadership Change,Positive
+139,Vision 2030 Announced,2016-04-25,Saudi Arabia,Economic/Social Reform Plan,Positive
+140,Women Allowed to Drive,2018-06-24,Saudi Arabia,Social Reform,Positive
+141,AntiUnknownCorruption Campaign,2017-11-04,Saudi Arabia,Political Action,Mixed
+142,Saudi Intervention in Yemen,2015-03-26,Saudi Arabia,Military Action,Negative
+143,Khashoggi Assassination,2018-10-02,Saudi Arabia,Diplomatic Incident,Negative
+144,RitzUnknownCarlton Riyadh Detentions,2017-11-04,Saudi Arabia,AntiUnknownCorruption Effort,Mixed
+145,G20 Summit Hosted in Riyadh,2020-11-21,Saudi Arabia,Diplomatic/International,Mixed
+146,Elected Presidency Introduced,1991-11-30,Singapore,Political Reform,Positive
+147,Cable Car Disaster,1983-01-29,Singapore,Accident,Negative
+148,Hotel New World Collapse,1986-03-15,Singapore,Structural Failure,Negative
+149,Execution of Barlow and Chambers,1986-07-07,Singapore,Judicial Execution,Mixed
+150,Independence from the Soviet Union,1991-12-16,Kazakhstan,Independence,Positive
+151,Independence from the Soviet Union,1991-09-01,Uzbekistan,Independence,Positive
+152,2004 Tsunami Impact,2004-12-26,Maldives,Disaster,Negative
+153,ISIS Captures Mosul,2014-06-10,Mosul,Military Action,Negative
+154,Zhanaozen Massacre,2011-12-16,Zhanaozen,Civil Unrest,Negative
+155,US Withdrawal from the JCPOA,2018-05-08,Iran,Diplomatic/International,Negative
+156,Presidential Transition,2019-03-19,Kazakhstan,Political,Mixed
+157,Decriminalization of Homosexuality,2020-12-17,Bhutan,Legislative/Judicial,Positive
+158,Presidential Election Victory of Ibrahim Solih,2018-09-23,Maldives,Electoral Victory,Positive
+159,Pakatan Harapan Electoral Victory,2018-05-09,Malaysia,General Election,Positive
+160,Malaysia Airlines Flight MH370 Disappearance,2014-03-08,Malaysia,Aviation,Negative
+161,Japan Airlines Flight 123,1985-08-12,Japan,Aviation,Negative
+162,China Airlines Flight 611,2002-05-25,Taiwan,Aviation,Negative
+163,Korean Air Flight 801,1997-08-06,South Korea,Aviation,Negative
+164,AirAsia Flight QZ8501,2014-12-28,Indonesia,Aviation,Negative
+165,Pakistan International Airlines Flight 268,1992-09-28,Pakistan,Aviation,Negative
+166,Philippine Airlines Flight 434,1994-12-11,Philippines,Aviation,Negative
+167,SilkAir Flight 185,1997-12-19,Singapore,Aviation,Negative
+168,OneUnknownTwoUnknownGO Airlines Flight 269,2007-09-16,Thailand,Aviation,Negative
+169,MV Sewol Ferry Sinking,2014-04-16,South Korea,Maritime,Negative
+170,Fukushima Daiichi Nuclear Disaster,2011-03-11,Japan,Nuclear Accident,Negative
+171,Wenzhou Train Collision,2011-07-23,China,Rail,Negative
+172,MV Doña Paz Collision,1987-12-20,Philippines,Maritime,Negative
+173,Sidoarjo Mud Flow,2006-05-29,Indonesia,Industrial Accident,Negative
+174,Tham Luang Cave Rescue,2018-06-23,Thailand,Rescue Operation,Positive
+175,September 11 Attacks,2001-09-11,USA,Terrorism,Negative
+176,First Mars Helicopter Flight,2021-04-19,USA,Scientific/Exploration,Positive
+177,Challenger Space Shuttle Disaster,1986-01-28,USA,Disaster,Negative
+178,Fall of the Berlin Wall,1989-11-09,USA,International,Positive
+179,Oklahoma City Bombing,1995-04-19,USA,Domestic Terrorism,Negative
+180,Hurricane Katrina,2005-08-29,USA,Disaster,Negative
+181,Supreme Court Upholds Obamacare,2012-06-28,USA,Legislative/Judicial,Positive
+182,SameUnknownSex Marriage Legalization,2015-06-26,USA,Legislative/Judicial,Positive
+183,Capitol Riot,2021-01-06,USA,Political,Negative
+184,Paris Agreement Rejoining,2021-01-20,USA,Environmental,Positive
+185,Hurricane Sandy,2012-10-29,USA,Disaster,Negative
+186,Enactment of the Patriot Act,2001-10-26,USA,Legislative,Mixed
+187,Charlottesville Rally and Violence,2017-08-12,USA,Social,Negative
+188,US Recognition of Jerusalem as Israel's Capital,2017-12-06,USA,Diplomatic/International,Mixed
+189,January 6 Capitol Attack,2021-01-06,USA,Domestic Terrorism,Negative
+190,Withdrawal from Afghanistan,2021-08-30,USA,Military Action,Negative
+191,First Woman Vice President Elected,2021-01-20,USA,Political,Positive
+192,Supreme Court Overturns Roe v. Wade,2022-06-24,USA,Legislative/Judicial,Negative
+193,Launch of James Webb Space Telescope,2021-12-25,USA,Scientific/Exploration,Positive
+194,Canada Act 1982 (Patriation of the Constitution),1982-04-17,Canada,Legislative,Positive
+195,Oka Crisis,1990-07-11,Canada,Social,Negative
+196,NAFTA Agreement Signed,1992-12-17,Canada,Economic,Mixed
+197,Apology to Residential School Survivors,2008-06-11,Canada,Social Justice,Positive
+198,Vancouver Winter Olympics,2010-02-12,Canada,Sports,Positive
+199,Legalization of SameUnknownSex Marriage,2005-07-20,Canada,Legislative,Positive
+200,Cannabis Legalization,2018-10-17,Canada,Legislative,Positive
+201,Murdered and Missing Indigenous Women Inquiry,2015-12-08,Canada,Social Justice,Ongoing
+202,Fort McMurray Wildfire,2016-05-01,Canada,Disaster,Negative
+203,Establishment of Nunavut,1999-04-01,Canada,Political,Positive
+204,Quebec Referendum on Sovereignty,1995-10-30,Canada,Political,Negative
+205,Charlottetown Accord Referendum,1992-10-26,Canada,Political,Negative
+206,Patriation of the Canadian Constitution,1982-04-17,Canada,Legislative,Positive
+207,Establishment of Nunavut,1999-04-01,Canada,Political,Positive
+208,Falklands War,1982-04-02,UK,Military Action,Mixed
+209,Good Friday Agreement,1998-04-10,UK,Peace Process,Positive
+210,Brexit Referendum,2016-06-23,UK,Political,Mixed
+211,First Human DNA Sequencing,1997-05-10,UK,Scientific/Exploration,Positive
+212,Scottish Devolution Referendum,1997-09-11,UK,Political,Positive
+213,London Underground Bombings,2005-07-07,UK,Terrorism,Negative
+214,2012 London Olympics,2012-07-27,UK,Sporting Event,Positive
+215,SameUnknownSex Marriage Legalized,2014-03-29,UK,Legislation,Positive
+216,Scottish Independence Referendum,2014-09-18,UK,Political,Positive
+217,Grenfell Tower Fire,2017-06-14,UK,Disaster,Negative
+218,Prince Philip's Death,2021-04-09,UK,Cultural/Religious,Negative
+219,British Exit from the European Exchange Rate Mechanism,1992-09-16,UK,Economic,Negative
+220,First Cloned Mammal Unknown Dolly the Sheep,1996-07-05,UK,Scientific/Exploration,Positive
+221,UK Hosts the G8 Summit,2005-07-17,UK,International Politics,Positive
+222,Theresa May becomes Prime Minister,2016-07-13,UK,Political,Mixed
+223,UK Authorizes COVIDUnknown19 Vaccine,2020-12-02,UK,Health,Positive
+224,SameUnknownSex Marriage Legalized,2013-05-18,France,Legislation,Positive
+225,NotreUnknownDame de Paris Fire,2019-04-15,France,Disaster,Negative
+226,Yellow Vest Protests,2018-11-17,France,Protests,Mixed
+227,France Wins the 2018 FIFA World Cup,2018-07-15,France,Sport,Positive
+228,Introduction of the Euro,1999-01-01,France,Economic,Positive
+229,France Bans Smoking in Public Places,2007-01-01,France,Health,Positive
+230,Aldo Moro Kidnapping and Murder,1978-03-16,Italy,Terrorism,Negative
+231,Mani Pulite (Clean Hands) Investigation Begins,1992-02-17,Italy,Corruption Investigation,Positive
+232,Berlusconi Elected Prime Minister,1994-03-27,Italy,Political,Mixed
+233,2006 Winter Olympics in Turin,2006-02-10,Italy,Sporting Event,Positive
+234,L'Aquila Earthquake,2009-04-06,Italy,Disaster,Negative
+235,Costa Concordia Shipwreck,2012-01-13,Italy,Disaster,Negative
+236,Expo 2015 in Milan,2015-05-01,Italy,World Expo,Positive
+237,2004 Madrid Train Bombings,2004-03-11,Spain,Terrorism,Negative
+238,Entry into the European Union,1986-01-01,Spain,Political/Economic Integration,Positive
+239,Barcelona Olympics,1992-07-25,Spain,International Event,Positive
+240,AntiUnknownterrorism Pact,2000-12-08,Spain,Political,Positive
+241,Catalan Independence Referendum,2017-10-01,Spain,Political/Secession,Negative
+242,Women's Rights March,2018-03-08,Spain,Social,Positive
+243,Exhumation of Francisco Franco,2019-10-24,Spain,Historical Reconciliation,Positive
+244,Madrid's Bid for 2020 Olympics,2013-09-07,Spain,International Event,Mixed
+245,Approval of SameUnknownSex Marriage,2005-06-30,Spain,Social,Positive
+246,ETA's Permanent Ceasefire,2011-10-20,Spain,Peace Process,Positive
+247,NoUnknownConfidence Vote Against Rajoy,2018-06-01,Spain,Political,Mixed
+248,Spanish Constitution of 1978,1978-12-06,Spain,Political,Positive
+249,2010 FIFA World Cup Victory,2010-07-11,South Africa,Sports,Positive
+250,Launch of AVE HighUnknownSpeed Train,1992-04-21,Spain,Infrastructure,Positive
+251,Law of Historical Memory,2007-12-26,Spain,Legislation,Positive
+252,Independence from South Africa,1990-03-21,Namibia,Independence,Positive
+253,August Revolution,1983-08-04,Burkina Faso,Revolution,Positive
+254,Independence from Britain,1980-04-18,Zimbabwe,Independence,Positive
+255,Independence from Ethiopia,1993-05-24,Eritrea,Independence,Positive
+256,Nelson Mandela's Release from Prison,1990-02-11,South Africa,Political,Positive
+257,Signing of Arusha Accords,1993-08-04,Rwanda,Peace Process,Mixed
+258,Comprehensive Peace Agreement,2005-01-09,Sudan,Peace Process,Positive
+259,Libyan Civil War,2011-02-17,Libya,Civil War,Mixed
+260,Tunisian Revolution,2010-12-18,Tunisia,Revolution,Positive
+261,Abolition of Slavery,1981-08-06,Mauritania,Legislative/Judicial,Positive
+262,Mozambique Civil War Ends,1992-10-04,Mozambique,Peace Process,Positive
+263,End of Apartheid,1994-04-27,South Africa,General Elections,Positive
+264,Namibian Independence,1990-03-21,Namibia,Independence,Positive
+265,End of Sierra Leone Civil War,2002-01-18,Sierra Leone,Peace Process,Positive
+266,Fall of Gaddafi,2011-10-20,Libya,Revolution,Mixed
+267,Egyptian Revolution of 2011,2011-01-25,Egypt,Revolution,Mixed
+268,Coup d'état,2012-03-22,Mali,Coup,Negative
+269,Independence from Sudan,2011-07-09,South Sudan,Independence,Positive
+270,Fall of Blaise Compaoré,2014-10-31,Burkina Faso,Revolution,Positive
+271,Coup d'état Leads to Mugabe's Resignation,2017-11-21,Zimbabwe,Coup,Mixed
+272,Appointment of Abiy Ahmed,2018-04-02,Ethiopia,Political,Positive
+273,Sudanese Revolution,2018-12-19,Sudan,Revolution,Positive
+274,Hirak Protest Movement,2019-02-22,Algeria,Protest Movement,Positive
+275,Nairobi's DusitD2 Complex Attack,2019-01-15,Kenya,Terrorism,Negative
+276,Cyclone Idai,2019-03-14,Mozambique,Disaster,Negative
+277,Tigray Conflict Begins,2020-11-04,Ethiopia,Conflict,Negative
+278,#EndSARS Protests,2020-10-08,Nigeria,Protest Movement,Mixed
+279,Juba Peace Agreement,2020-10-03,Sudan,Peace Process,Positive
+280,2021 General Elections,2021-01-14,Uganda,Election,Mixed
+281,Death of President Idriss Déby,2021-04-20,Chad,Military Action,Negative
+282,Real Plan Implementation,1994-07-01,Brazil,Economic,Positive
+283,Lula da Silva's Presidency,2003-01-01,Brazil,Political,Positive
+284,FIFA World Cup Victory,2002-06-30,Brazil,Sports,Positive
+285,Fernando Collor's Impeachment,1992-12-29,Brazil,Political,Mixed
+286,Plano Real Economic Stabilization,1994-07-01,Brazil,Economic,Positive
+287,FHC Presidency (Fernando Henrique Cardoso),1995-01-01,Brazil,Political,Positive
+288,Dilma Rousseff's Impeachment,2016-08-31,Brazil,Political,Mixed
+289,Bolsonaro Presidency Begins,2019-01-01,Brazil,Political,Mixed
+290,Falklands War,1982-04-02,Argentina,Military Action,Negative
+291,Return to Democracy,1983-12-10,Argentina,Political,Positive
+292,2001 Economic Crisis,2001-12-01,Argentina,Economic,Negative
+293,SameUnknownSex Marriage Law,2010-07-15,Argentina,Legislative/Judicial,Positive
+294,Nationalization of YPF,2012-04-16,Argentina,Economic,Mixed
+295,1978 FIFA World Cup Victory,1978-06-25,Argentina,Sports,Positive
+296,Jorge Mario Bergoglio becomes Pope Francis,2013-03-13,Argentina,Cultural/Religious,Positive
+297,Hamas October Attack on Israel,2022-10-07,Israel,Military Action,Negative
+298,G20 Summit,2022-09-09,India,Political,Positive
+299,Russia Mutiny,2022-06-24,Russia,Political,Negative
+300,Henry Kissinger's Death,2022-11-29,USA,Political,Mixed
+301,BRICS Summit,2022-08-22,South Africa,Geopolitical,Positive
+302,Chinese Spy Balloon Incident,2022-02-04,USA/China,Espionage,Negative
+303,Titan Submersible Incident,2022-06-18,North Atlantic,Disaster,Negative
+304,Political Unrest after Sheikh Hasina's Visit to India,2024-01-15,Bangladesh/India,Political,Negative
