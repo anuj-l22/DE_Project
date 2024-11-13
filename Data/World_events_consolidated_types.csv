@@ -303,3 +303,11 @@ event_id,Name of Incident,Date,Country,Type of Event,Outcome
 302,Chinese Spy Balloon Incident,2022-02-04,USA/China,Espionage,Negative
 303,Titan Submersible Incident,2022-06-18,North Atlantic,Disaster,Negative
 304,Political Unrest after Sheikh Hasina's Visit to India,2024-01-15,Bangladesh/India,Political,Negative
+305,Wildfires Devastate Central Chile,2024-02-02,Chile,Disaster,Negative
+306,Greece Legalizes Same-Sex Marriage and Adoption,2024-02-15,Greece,Social,Positive
+307,France Enshrines Abortion Rights in Constitution,2024-03-04,France,Political,Positive
+308,Taylor Swift Becomes World's First Musician Billionaire,2024-04-02,USA,Economic,Positive
+309,New York and New Jersey Hit by Strongest Earthquake in Over a Century,2024-04-07,USA,Disaster,Negative
+310,Paris Hosts 2024 Summer Olympics Amid Security Concerns,2024-07-26,France,Sports,Mixed
+311,Euro 2024 Tournament Held Across Germany,2024-06-14,Germany,Sports,Positive
+312,World's Longest Treasure Hunt Concludes in France,2024-10-03,France,Cultural,Positive
